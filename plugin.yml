@@ -1,0 +1,10 @@
+name: IdCommand
+api: 4.0.0
+version: 1.0.0
+authors:
+  - GhostSushi
+main: GhostSushi\Id\Main
+
+permissions:
+  id.use:
+    default: op
